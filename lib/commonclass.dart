@@ -7,7 +7,7 @@ class CommonClass {
     return Text(
       txt,
       style: TextStyle(
-          fontSize: 18.0, color: Colors.grey[800], fontWeight: FontWeight.bold),
+          fontSize: 18.0, color: Colors.grey[900], fontWeight: FontWeight.bold),
     );
   }
 
